@@ -1,0 +1,8 @@
+{
+  "name": "card-grid-utils-20261009134721",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "node build.js"
+  }
+}
